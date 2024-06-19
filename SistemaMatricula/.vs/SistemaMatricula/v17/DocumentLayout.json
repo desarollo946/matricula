@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|c:\\users\\itdesarrollo3\\desktop\\sistema aprendizaje\\sistemamatricula\\sistemamatricula\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|solutionrelative:sistemamatricula\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|c:\\users\\itdesarrollo3\\desktop\\sistema aprendizaje\\sistemamatricula\\sistemamatricula\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|solutionrelative:sistemamatricula\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|c:\\users\\itdesarrollo3\\desktop\\sistema aprendizaje\\sistemamatricula\\sistemamatricula\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|solutionrelative:sistemamatricula\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|c:\\users\\itdesarrollo3\\desktop\\sistema aprendizaje\\sistemamatricula\\sistemamatricula\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B653AB9C-A7DE-48F6-9B48-785E545ECB4C}|SistemaMatricula\\SistemaMatricula.csproj|solutionrelative:sistemamatricula\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "SistemaMatricula\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Models\\Curso.cs",
+              "RelativeToolTip": "SistemaMatricula\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:28:31.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaMatricula\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaMatricula\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:25:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Views\\Curso\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaMatricula\\Views\\Curso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Views\\Curso\\Index.cshtml",
+              "RelativeToolTip": "SistemaMatricula\\Views\\Curso\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:24:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "SistemaMatricula\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\ITDesarrollo3\\Desktop\\Sistema aprendizaje\\SistemaMatricula\\SistemaMatricula\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "SistemaMatricula\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:41:15.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

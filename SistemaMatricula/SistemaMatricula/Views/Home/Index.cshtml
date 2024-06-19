@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<table id="TABLA" class="display" style="width:100%">
+    <thead>
+        <tr>
+
+            <th>Nombre</th>
+        </tr>
+    </thead>
+</table>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
+
+@section Scripts{
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#TABLA").dataTable({
+                    "sDom": "<'dt-toolbar'<'col-xs-12 col-sm-6 hidden-xs'f><'col-sm-6 col-xs-12 hidden-xs'<'toolbar col-lg-6'>l>r>" +
+                        "t" +
+                        "<'dt-toolbar-footer'<'col-sm-6 col-xs-12 hidden-xs'i><'col-xs-12 col-sm-6'p>>",
+                    "autoWidth": true,
+                    "language": {
+                        "emptyTable": "No se encontraron resultados.",
+                        "search": '<div class="icon-addon addon-md"><label for="search" class="glyphicon glyphicon-search"></label>',
+                        "paginate": {
+                            first: "Primero",
+                            previous: "Anterior",
+                            next: "Siguiente",
+                            last: "Ultimo"
+                        },
+                        "lengthMenu": " _MENU_ ",
+                        "info": "Mostrando registros del _START_ al _END_ de _TOTAL_ registros totales.",
+                        "infoEmpty": "No hay registros para mostrar."
+                    },
+                    ajax: {
+                        "url": "/home/Solicitud",
+                        "method": "GET",
+                        "dataSrc": function (datosss) {
+                            console.log(datosss);
+                            return datosss;
+                        }
+                    },
+                    columns: [
+                        { "data": "id", "visible": false },
+                        { "data": "dia" }
+                    ]
+                });
+            });
+        </script>
+    }
